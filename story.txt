@@ -7,7 +7,7 @@ period 2
 period 3
 period 4
 period 5
-period 6
+period 6 This is my drivers period. Today we lsitened to someones chapter presentations which we have been doing for the past two weeks. I find it very to stay awake during this period because my group has already presented.
 period 7
 period 8
 I sat through some classes
