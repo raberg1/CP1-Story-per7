@@ -7,7 +7,15 @@ period 2
 period 3
 period 4
 period 5
-period 6
+period 6 is Geometry
+ - I walked into the classroom
+ - I sat in my desk
+ - I pulled out my pencil
+ - I wrote my name on the test that was in front of me
+ - I did the test for 50 minutes
+ - I turned in the test with two unanswered questions
+ - I put my pencil in my bag
+ - I left the room
 period 7
 period 8
 I sat through some classes
