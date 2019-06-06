@@ -15,7 +15,14 @@ period 3
 My period 3 class is drivers ed. In drivers ed today we worked on the driving simulators. The task on the driving simulators was to practice getting passed by other cars, drive with on coming traffic, and existing roads. I also got many birthday wishes in that class because it's my birthday today.
 period 4
 period 5
-period 6
+period 6 - Math
+    * I walked into geometry
+    * I started the exam
+    * I tried to do the exam
+    * I failed the exam
+    * I turned in the exam
+    * I left geometry
+    
 period 7
 period 8
 I sat through some classes
